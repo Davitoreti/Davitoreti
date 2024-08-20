@@ -1,4 +1,4 @@
-<p>Olá! me chamo Davi e atualmente estou a procura de um estágio, cursando bacharel em Sistemas de informação e estou no 10° semestre. Realizo cursos online de desenvolvimento web em sites como Alura e OneBitCode, bucando minha primeira vaga na área. Estou sempre em busca de novos desafios e oportunidades de aprendizado.</p>
+<p>Olá! me chamo Davi e atualmente estou a procura de um estágio, cursando técnico em informática para internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha. Realizo cursos online de desenvolvimento web em sites como Alura e OneBitCode, bucando minha primeira vaga na área. Estou sempre em busca de novos desafios e oportunidades de aprendizado.</p>
 
 <h3>📚 Conhecimento técnico:</h3>
 <div>
